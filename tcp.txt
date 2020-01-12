@@ -1,0 +1,115 @@
+config firewall service custom
+edit TCP-1443 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 1443 
+end
+config firewall service custom
+edit TCP-1454 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 1454 
+end
+config firewall service custom
+edit TCP-24347 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 24347 
+end
+config firewall service custom
+edit TCP-24351 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 24351 
+end
+config firewall service custom
+edit TCP-3268 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 3268 
+end
+config firewall service custom
+edit TCP-49154 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49154 
+end
+config firewall service custom
+edit TCP-49155 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49155 
+end
+config firewall service custom
+edit TCP-49159 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49159 
+end
+config firewall service custom
+edit TCP-49161 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49161 
+end
+config firewall service custom
+edit TCP-49666 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49666 
+end
+config firewall service custom
+edit TCP-49679 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49679 
+end
+config firewall service custom
+edit TCP-49688
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49688
+end
+config firewall service custom
+edit TCP-49690 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 49690 
+end
+config firewall service custom
+edit TCP-5514 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 5514 
+end
+config firewall service custom
+edit TCP-5693 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 5693 
+end
+config firewall service custom
+edit TCP-5985 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 5985 
+end
+config firewall service custom
+edit TCP-5986 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 5986 
+end
+config firewall service custom
+edit TCP-6514 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 6514 
+end
+config firewall service custom
+edit TCP-6534 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 6534 
+end
+config firewall service custom
+edit TCP-8089
+set protocol TCP/UDP/SCTP
+set tcp-portrange 8089
+end
+config firewall service custom
+edit TCP-8102 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 8102 
+end
+config firewall service custom
+edit TCP-8850 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 8850 
+end
+config firewall service custom
+edit TCP-9997 
+set protocol TCP/UDP/SCTP
+set tcp-portrange 9997 
+end
